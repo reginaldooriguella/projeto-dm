@@ -24,8 +24,7 @@ ponto). Justifique cada escolha (0,5 ponto);**
 
 
 <p align="center">
-  <img src="https://github.com/reginaldooriguella/projeto-dm/blob/master/4-C.jpg
-" >
+  <img src="https://github.com/reginaldooriguella/projeto-dm/blob/master/4-C.jpg" >
 </p>
 
 
