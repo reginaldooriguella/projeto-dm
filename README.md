@@ -23,6 +23,12 @@ número mínimo de noites, número de reviews, tipo de quarto, por exemplo (0,5
 ponto). Justifique cada escolha (0,5 ponto);**
 
 
+<p align="center">
+  <img src="https://github.com/reginaldooriguella/projeto-dm/blob/master/4-C.jpg
+" >
+</p>
+
+
 
 
 **d) Suponhamos que foi solicitada uma visualização que mostre o número de reviews
